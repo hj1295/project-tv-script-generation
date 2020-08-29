@@ -1,6 +1,6 @@
 # project-tv-script-generation
 
-Udacity Deep Learning nanodegree TV Script generation project
+Udacity Deep Learning nanodegree TV Script generation project done with Recurrent Neural Networks 
 
 
 # Project Instructions
