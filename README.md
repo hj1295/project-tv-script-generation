@@ -15,3 +15,8 @@ After cloning, access the jupyter notebook to continue
 ## Details
 
 Trained using RNN's which may take a while, so if don't want to reduce the complexity of your RNN you can use a GPU that would reduce the time to run.
+
+
+## Results
+
+An example of the results can be seen in ./generated_script_1.txt
