@@ -19,4 +19,4 @@ Trained using RNN's which may take a while, so if don't want to reduce the compl
 
 ## Results
 
-An example of the results can be seen in ./generated_script_1.txt
+An example of the results can be seen in the generated result [script](./generated_script_1.txt)
